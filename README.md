@@ -11,7 +11,7 @@ the database include:
 - 500 customers
 - 2000 orders
 
-  You can create the database from the scripts in "src" repository folder.
+  You can create the database from the scripts in "src" repository folder. First create the schema(db) with "pizzeria_db_create_structure.sql", then you can use the rest of files.
 
 
 # Diagram
