@@ -13,7 +13,6 @@ the database include:
 
   You can create the database from the scripts in "src" repository folder. First create the schema(db) with "pizzeria_db_create_structure.sql", then you can use the rest of files.
 
-
 # Diagram
 the database has the next tables:
 - Address. where the orders are deliver.
@@ -32,6 +31,8 @@ the database has the next tables:
 
 
 # dashboard:
+
+To create the dashboard the scripts used are in "scripts" folder. There is a View needed called "stock1", this is created when "pizzeria_db_create_structure.sql" is executed. 
 
 Links to the dashboard:
 
