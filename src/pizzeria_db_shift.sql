@@ -1,0 +1,50 @@
+-- MySQL dump 10.13  Distrib 8.0.20, for macos10.15 (x86_64)
+--
+-- Host: localhost    Database: pizzeria_db
+-- ------------------------------------------------------
+-- Server version	5.7.30
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Dumping data for table `shift`
+--
+
+INSERT INTO `shift` VALUES ('1','Sunday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('10','Wednesday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('11','Wednesday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('12','Wednesday','18:00:00','22:00:00');
+INSERT INTO `shift` VALUES ('13','Thursday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('14','Thursday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('15','Thursday','18:00:00','22:00:00');
+INSERT INTO `shift` VALUES ('16','Friday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('17','Friday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('18','Friday','18:00:00','22:00:00');
+INSERT INTO `shift` VALUES ('19','Saturday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('2','Sunday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('20','Saturday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('21','saturday','18:00:00','22:00:00');
+INSERT INTO `shift` VALUES ('3','Sunday','18:00:00','22:00:00');
+INSERT INTO `shift` VALUES ('4','Monday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('5','Monday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('6','Monday','18:00:00','22:00:00');
+INSERT INTO `shift` VALUES ('7','Tuesday','10:00:00','14:00:00');
+INSERT INTO `shift` VALUES ('8','Tuesday','14:00:00','18:00:00');
+INSERT INTO `shift` VALUES ('9','Tuesday','18:00:00','22:00:00');
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed
