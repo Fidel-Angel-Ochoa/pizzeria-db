@@ -39,13 +39,14 @@ https://lookerstudio.google.com/reporting/0f781ebd-c7f4-4cac-98e5-4c12fd1fee1a
 
 this first image describe the total sales, percentage of the orders for deliver, the quantity of orders by zone in the period time of a month.
 
-
 ![Pizzeria's_Activity-details](https://github.com/Fidel-Angel-Ochoa/pizzeria-db/assets/82437732/dc6fb167-4170-4550-a6b4-06187710878a)
 
-Here is showed the inventory remaining, the dashboard automatically paints in red the ingredient stock with less than 25%, in yellow the ones that are between 25% and 50%, the rest is in white. As well is showed the cost of each ingredient, "total quantity" ordered, and the cost of each pizza.
+
+Here the inventory remaining is presented, the dashboard automatically paints in red the ingredient stock with less than 25%, in yellow the ones that are between 25% and 50%, the rest is in white. As well the cost of each ingredient is shown, "total quantity" ordered, and the cost of each pizza.
 
 ![Pizzeria's_Activity-details2](https://github.com/Fidel-Angel-Ochoa/pizzeria-db/assets/82437732/59221d0a-3be5-4980-989d-7278bec3fcd1)
 
-Finally is showed the total cost and total hours of the staff.
+
+Finally is presented the total cost and total hours of the staff.
 
 ![Pizzeria's_Activity-details3](https://github.com/Fidel-Angel-Ochoa/pizzeria-db/assets/82437732/c5707eda-f235-45dc-a6e6-22b2b23218d6)
